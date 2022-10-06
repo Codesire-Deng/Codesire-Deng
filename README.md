@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Codesire-Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codesire-Deng&hide=issues&count_private=true&show_icons=true&theme=onedark)
+
+- 🔭 I’m currently working on [co_context](https://github.com/Codesire-Deng/co_context), a C++ coroutine library.
+- 🌱 I’m currently learning Systems Performance for throughput-or-latency-sensitive applications.
