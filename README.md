@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 
 ![Codesire-Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codesire-Deng&hide=issues&count_private=true&show_icons=true&theme=onedark)
 
+- 😄 I am an undergraduate student studying CS and am about to graduate.
 - 🔭 I’m currently working on [co_context](https://github.com/Codesire-Deng/co_context), a C++ coroutine library.
-- 🌱 I’m currently learning Systems Performance for throughput-or-latency-sensitive applications.
+- 🌱 I’m learning Systems Performance for throughput-or-latency-sensitive applications.
+- How to reach me:
+  - 📫 email: [oi_dzf@qq.com](mailto:oi_dzf@qq.com)
+  - <img src="./icon/weixin.svg" height="15em" width="20em"> wechat: oi_dzf
+  - <img src="./icon/bilibili.svg" height="15em" width="20em"> bilibili:  [@等疾风](https://space.bilibili.com/35186937)
