@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Codesire-Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codesire-Deng&hide=issues&count_private=true&show_icons=true&theme=onedark)
 
-- 😄 I am an undergraduate student studying CS and am about to graduate.
+- 😄 I am a full-time developer major in Computer Science and C++.
 - 🔭 I’m currently working on [co_context](https://github.com/Codesire-Deng/co_context), a C++ coroutine library.
 - 🌱 I’m learning Systems Performance for throughput-or-latency-sensitive applications.
 - How to reach me:
